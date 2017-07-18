@@ -1,0 +1,73 @@
+body{
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+#main_container{
+  background: white;
+  height: 600px;
+}
+
+h1{
+  color: grey;
+  font-size: 60px;
+  letter-spacing: 3px;
+  font-family: 'Roboto';
+  font-weight: 100;
+}
+
+h2{
+  padding-left: 40px;
+  font-size: 40px;
+  color: black;
+}
+
+section{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+div{
+  width: 50%;
+  padding-top: 20px;
+  margin: 0;
+}
+
+#the_basics{
+  margin: 0 auto;
+  text-align: left;
+  font-weight: 100;
+  width: 80%;
+  font-family: 'Roboto';
+  color: grey;
+}
+
+#githubContent{
+  text-align: center;
+  line-height: 1.5;
+}
+
+#textContent{
+  width: 50%;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: grey;
+}
+
+span{
+  font-weight: 600;
+  color: aqua;
+  font-family: 'Roboto';
+}
+
+li{
+  list-style-type: none;
+}
+
+p{
+  border-left: 1px solid grey;
+  padding-left: 40px;
+  font-style: 'Roboto';
+}
