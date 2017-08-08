@@ -1,0 +1,159 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  border: 3px solid black;
+  /*box-sizing: border-box;
+  margin-bottom: 10px;*/
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  text-align: center;
+  background-color: #879900;
+  padding: 10px 0;
+  font-size: 75px;
+  font-weight: 100px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.container {
+  margin-left: 105px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.basics {
+  margin-left: 105px;
+  display: inline;
+  padding-left: 80px;
+}
+
+.story {
+  display: inline;
+  padding-left: 230px;
+}
+
+ul {
+  margin: 50px;
+  list-style: none;
+  padding-left: 40px;
+  padding-right: 60px;
+  border-right: 2px solid grey;
+  margin-right: 40px;
+  color: grey;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+}
+
+b {
+  Color: #94b8b8;
+}
+
+p {
+  padding-left: 35px;
+  margin-right: 40px;
+  font-size: 20px;
+  color: grey;
+}
+
+.holder {
+  background: black;
+}
+
+.pic {
+  width: 100%;
+}
+
+img {
+  width: 170px;
+  height: 170px;
+  border-radius: 440px;
+}
+
+
+
+
+
+/*body{
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+#main_container{
+  background: white;
+  height: 600px;
+}
+
+h1{
+  color: grey;
+  font-size: 60px;
+  letter-spacing: 3px;
+  font-family: 'Roboto';
+  font-weight: 100;
+}
+
+h2{
+  padding-left: 40px;
+  font-size: 40px;
+  color: black;
+}
+
+section{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+div{
+  width: 50%;
+  padding-top: 20px;
+  margin: 0;
+}
+
+#the_basics{
+  margin: 0 auto;
+  text-align: left;
+  font-weight: 100;
+  width: 80%;
+  font-family: 'Roboto';
+  color: grey;
+}
+
+#githubContent{
+  text-align: center;
+  line-height: 1.5;
+}
+
+#textContent{
+  width: 50%;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: grey;
+}
+
+span{
+  font-weight: 600;
+  color: aqua;
+  font-family: 'Roboto';
+}
+
+li{
+  list-style-type: none;
+}
+
+p{
+  border-left: 1px solid grey;
+  padding-left: 40px;
+  font-style: 'Roboto';
+}*/
